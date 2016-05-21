@@ -36,7 +36,7 @@ Examples:
 ```
 
 
-## 2. Common technical questions
+## 3. Common technical questions
 1. How would you verify a prime number?
 Ex:
 ```
@@ -49,7 +49,7 @@ Ex:
 3. How would you remove duplicate members from an array?
 
  
-## 3. Soft skills interview questions
+## 4. Soft skills interview questions
  
 * What did you learn yesterday/this week?
 * What excites or interests you about coding?
