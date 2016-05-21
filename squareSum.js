@@ -1,7 +1,7 @@
-function squareSum(numbers){
+function squareSum(arrayOfNumbers){
   var result = 0;
-  for (i=0; i<numbers.length; i++) {
-    result += numbers[i] * numbers[i];
+  for (i=0; i<.length; i++) {
+    result += arrayOfNumbers[i] * arrayOfNumbers[i];
   }
   return result;
 }
