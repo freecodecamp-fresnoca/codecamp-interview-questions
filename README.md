@@ -6,7 +6,7 @@ Goals:
  * Pull requests to this repo with your solution.
  * Have fun!
 
- ## 1. Square Sum
+## 1. Square Sum
 
 Complete the squareSum method so that it squares each number passed into it and then sums the results together.
 
@@ -36,7 +36,7 @@ Examples:
 ```
 
 
- ## 2. Common technical questions
+## 2. Common technical questions
 1. How would you verify a prime number?
 Ex:
 ```
@@ -49,7 +49,7 @@ Ex:
 3. How would you remove duplicate members from an array?
 
  
- ## 3. Soft skills interview questions
+## 3. Soft skills interview questions
  
 * What did you learn yesterday/this week?
 * What excites or interests you about coding?
