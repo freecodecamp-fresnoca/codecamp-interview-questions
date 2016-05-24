@@ -1,4 +1,4 @@
-# Pracice Interview questions
+# Practice Interview questions
 
 Goals:
 
@@ -10,7 +10,7 @@ Goals:
 
 Complete the squareSum method so that it squares each number passed into it and then sums the results together.
 
-For example:
+Ex:
 
 ```
 > squareSum([1, 2, 2]); 
@@ -25,7 +25,7 @@ Given a string of space separated numbers, return the highest and lowest number 
 
 `"High Low"`
 
-Examples:
+Ex:
 ```
 > HighLow("1 2 3 4 5");  
   = "5 1"
