@@ -1,17 +1,9 @@
-function highLow(stringOfNumbers) {
-  var split = stringOfNumbers.split(' ');
-  var max = split[0];
-  var min = split[0];
-  for (i=1; i<split.length; ++i) {
-    if (split[i] < min) {
-      min = split[i];
-    }
-    if (split[i] > max) {
-      max = split[i];
-    }
-  }
-  return '' + min + " " + max;
+function highLow(str){
+  var nums = str.split(' ');
+  var max =Math.max(...nums); // es2015 spread operator
+  var min = Math.min(...nums);
+  console.log(max,min);
 }
-
-//Test code for function
-console.log(highLow("1 2 3"));
+highLow("1 2 3 4 5");  
+highLow("1 2 9 4 -3"); 
+highLow("8 2 2 4 -1"); 
